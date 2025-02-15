@@ -1,0 +1,6 @@
+*.idb
+*.pdb
+.vs/
+.vscode/
+out/
+modules/
