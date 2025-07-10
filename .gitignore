@@ -2,5 +2,5 @@
 *.pdb
 .vs/
 .vscode/
-out/
 modules/
+out/
